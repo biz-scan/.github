@@ -53,22 +53,22 @@
 
 | PM | Design |
 |:---:|:---:|
-| [추가이름1](https://github.com/shinchaerin79) | [추가이름1](https://github.com/shinchaerin79) |
-| <img src="https://avatars.githubusercontent.com/simGPT" width="150" /> | <img src="https://github.githubassets.com/images/spinners/transparent.gif" width="150" /> |
+| [최근영](https://github.com/rmsdud7763) | [이연수](https://github.com/이연수) |
+| <img src="https://avatars.githubusercontent.com/rmsdud7763" width="150" /> | <img src="https://github.githubassets.com/images/spinners/transparent.gif" width="150" /> |
 
 
 
 | FE Developer | FE Developer | FE Developer |
 |:---:|:---:|:---:|
-| [추가이름1](https://github.com/dohyung001) | [추가이름1](https://github.com/prkhaeun) | [추가이름](https://github.com/suminn01) |
-| <img src="https://avatars.githubusercontent.com/tgyeongt" width="150" /> | <img src="https://avatars.githubusercontent.com/RubiYH" width="150" /> | <img src="https://avatars.githubusercontent.com/추가아이디" width="150" /> |
+| [김도형](https://github.com/dohyung001) | [박하은](https://github.com/prkhaeun) | [백수민](https://github.com/suminn01) |
+| <img src="https://avatars.githubusercontent.com/dohyung001" width="150" /> | <img src="https://avatars.githubusercontent.com/prkhaeun" width="150" /> | <img src="https://avatars.githubusercontent.com/suminn01" width="150" /> |
 
 
 
 | BE Developer | BE Developer | BE Developer | BE Developer | BE Developer |
 |:---:|:---:|:---:|:---:|:---:|
-| [김종혁](https://github.com/kjh015) | [신채린](https://github.com/shinchaerin79) | [심서현](https://github.com/gcongK) | [추가이름1](https://github.com/추가아이디1) | [추가이름2](https://github.com/추가아이디2) |
-| <img src="https://avatars.githubusercontent.com/imjuyongp" width="150" /> | <img src="https://avatars.githubusercontent.com/shinchaerin79" width="150" /> | <img src="https://avatars.githubusercontent.com/simGPT" width="150" /> | <img src="https://avatars.githubusercontent.com/추가아이디1" width="150" /> | <img src="https://avatars.githubusercontent.com/추가아이디2" width="150" /> |
+| [김종혁](https://github.com/kjh015) | [신채린](https://github.com/shinchaerin79) | [김가빈](https://github.com/gcongK) | [편선아](https://github.com/Seona12) | [윤수정](https://github.com/Yoonssu) |
+| <img src="https://avatars.githubusercontent.com/kjh015" width="150" /> | <img src="https://avatars.githubusercontent.com/shinchaerin79" width="150" /> | <img src="https://avatars.githubusercontent.com/gcongK" width="150" /> | <img src="https://avatars.githubusercontent.com/Seona12" width="150" /> | <img src="https://avatars.githubusercontent.com/Yoonssu" width="150" /> |
 
 <br><br>
 
