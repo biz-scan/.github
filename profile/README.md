@@ -72,9 +72,6 @@
 
 <br><br>
 
-## System Architecture
-<img width="1010" height="795" alt="image" src="https://github.com/user-attachments/assets/bdef3c90-bb3d-4aec-b9d4-b1deef440436" />
-<br><br>
 
 ## Stacks  
 
